@@ -1,6 +1,6 @@
 The project is used to test the tcp transfer speed between client side with server side.
 
-First, you should launch the **BandWidthServer.exe** at server side to listern client's connection. and then run the **BandWidthClient.exe ** with desired options.
+First, you should launch the **BandWidthServer.exe** at server side to listern client's connection. and then run the **BandWidthClient.exe** with desired options.
 
 you can upload[/downlod] fixed amount of data to[/from] server and then calculate the time waste, or provide certain amount of time and see how many data the client upload[/downlod] to[/from] server.
 
@@ -24,7 +24,5 @@ Finally, figurate out and show the speed statistics.
   * **-h**: display the help information about param usage
 
 **Snapshot**
-
-
 
 ![image-01](http://oxutubpgi.bkt.clouddn.com/18-11-23/59216321.jpg)
