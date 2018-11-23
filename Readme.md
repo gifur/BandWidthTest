@@ -11,7 +11,7 @@ Finally, figurate out and show the speed statistics.
 * 参数说明（usage）：
   * **-p <*port*>**: indicate the port to listern
 
-**客户端 BandWidthClient.exe **
+**客户端 BandWidthClient.exe**
 
 * 参数说明（usage）：
   * **-u**: test the uplod speed
